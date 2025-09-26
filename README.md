@@ -2,3 +2,6 @@ processed dataset includes images of guava leaves and applied methods are give i
 All codes are also included creation of Figures and Tables.
 Processed guava leaf images are obtained from doi: 10.1016/J.DIB.2025.111378
 All data is under CC-BY license.
+
+For the Reference:
+https://doi.org/10.1016/j.asej.2025.103716
